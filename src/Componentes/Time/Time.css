@@ -1,0 +1,17 @@
+.Time{
+    text-align: center;
+    padding: 2em;
+}
+
+.Time h3{
+    font-size:  22px;
+    border-bottom: 4px solid ;
+    display: inline-block;
+}
+
+.Card{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
